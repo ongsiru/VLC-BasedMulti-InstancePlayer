@@ -5,7 +5,7 @@ PyQt5와 VLC를 활용하여 구현한 고해상도의 멀티 모니터용 비�
 ---
 ## 📸 스크린샷
 
-> [![Video Label](https://www.youtube.com/watch?v=gkz1PFBG4NE)
+[![Video Label](https://www.youtube.com/watch?v=gkz1PFBG4NE/0.jpg)](https://www.youtube.com/watch?v=gkz1PFBG4NE)
 
 ---
 
