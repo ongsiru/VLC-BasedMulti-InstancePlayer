@@ -33,12 +33,10 @@ PyQt5와 VLC를 활용하여 구현한 고해상도의 멀티 모니터용 비�
 
 ```
 VLC-BasedMulti-InstancePlayer/
-├── video/                # 영상 파일 디렉터리
-├── button/               # 버튼 이미지 디렉터리
+├── video/               
+├── button/              
 ├── image/
-│   └── background.jpg    # 메인 UI 배경 이미지
-├── main.py               # 실행 파일 (전체 GUI 및 로직 포함)
-└── README.md             # 프로젝트 설명 문서
+└── main.py               # 실행 파일 (전체 GUI 및 로직 포함)
 ```
 
 ---
